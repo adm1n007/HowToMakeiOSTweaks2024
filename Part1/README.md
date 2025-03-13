@@ -44,7 +44,7 @@ checkra1n及びunc0verは対象外ですのでご了承ください。
 
 今回はRoothide環境に対応したtheosをインストールしたいので、以下のコマンドをMTerminalで実行します。  
 <br>
-```bash -c "$(curl -fsSL https://raw.githubusercontent.com/roothide/theos/master/bin/install-theos)```  
+```bash -c "$(curl -fsSL https://raw.githubusercontent.com/roothide/theos/master/bin/install-theos)"```  
 <br>
 ここで以下のようにProcursusリポジトリはある？と聞かれますので"y"と入力してEnterを押します。（checkra1n/unc0ver環境の場合は"n"）
 <br>
